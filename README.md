@@ -1,6 +1,6 @@
 # SEN12-season Dataset
 
-SEN12-season is a SAR–optical paired dataset derived from the SEN1-2 dataset and used in the paper:
+SEN12-season is a SAR–optical paired dataset derived from the SEN1-2 dataset and curated in the paper:
 
 **DOGAN: DINO-based Optical Prior-driven GAN for SAR-to-Optical Image Translation**
 
