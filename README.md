@@ -15,8 +15,6 @@ The selected subset was divided into:
 - **3,200 image pairs for training**
 - **800 image pairs for testing**
 
-This dataset was used for all experiments conducted in the DOGAN framework.
-
 ---
 
 ## Dataset Structure
