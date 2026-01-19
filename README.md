@@ -45,3 +45,20 @@ The dataset is available via **Baidu Netdisk**:
 - **Extraction code**:  
   1qaz 
 
+---
+
+## Citation
+
+If you use the SEN12-season dataset in your research, please cite the following paper:
+
+```bibtex
+@ARTICLE{11153532,
+  author={He, Jingfei and Chen, Liang and Shi, Hao and Chen, Yuhang and Yang, Jingyi and Li, Wei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={DOGAN: DINO-Based Optical-Prior-Driven GAN for SAR-to-Optical Image Translation}, 
+  year={2025},
+  volume={63},
+  pages={1--16},
+  doi={10.1109/TGRS.2025.3606979}
+}
+
